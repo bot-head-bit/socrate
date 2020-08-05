@@ -1,4 +1,4 @@
-# alpha-social
+
 - This is a social media website which is accessible through the rest api 
 - It is divided into multiple microservices 
 - Profile service will have api to create account,changing details (like email,phonenumber,name etc.)  of user, uploading or deleting profile picture, etc.
